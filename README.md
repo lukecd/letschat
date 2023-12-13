@@ -65,15 +65,15 @@ A provenance layer is a ledger of record for digital information, tracking the o
 
 Data [uploaded to Irys](https://docs.irys.xyz/learn/transaction-lifecycle) is permanent, precise, and unconstrained.
 
--   **Permanent**
+-   **Permanent**: 
     Data stored on Irys is [censorship-resistant and immutable, forever](https://docs.irys.xyz/overview/permanent-data). There's no counterparty
     risk of data being removed.
 
--   **Precise**
+-   **Precise**: 
     Each piece of data is [timestamped with a high-precision timestamp](https://docs.irys.xyz/learn/receipts), providing a reliable sequence of
     events.
 
--   **Unconstrained**
+-   **Unconstrained**: 
     Users can always read, write, and easily discover data at any scale, making the data fully composable. Irys is permissionless
     and offers limitless permanent data, enabling it to provide provenance for all information.
 
