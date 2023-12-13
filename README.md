@@ -10,7 +10,7 @@ The chat history is generated in real-time using the Irys query package. There i
 
 1. Rename `.env.example` to be `.env` and populate it with an EVM-style private key linked to a wallet [funded with Mumbai MATIC](https://mumbaifaucet.com/).
 2. `npm install`
-3. `npm run letschat.js _____` (make sure to give yourself a handle)
+3. `node letschat.js _____` (make sure to give yourself a handle)
 
 ## How To Use
 
